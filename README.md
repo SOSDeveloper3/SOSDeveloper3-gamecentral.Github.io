@@ -6,4 +6,6 @@
   
   
   <heading>
-  <h4>Choose Your Gamemode:</h4>
+  <h4>Select Your Game:</h4>
+  
+ 
