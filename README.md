@@ -8,12 +8,11 @@
   <heading>
   <h4>Select Your Game:</h4>
   </heading>
-  <heading>
+  <body>
   <a href="https://sosdeveloper3.github.io/SOSDeveloper3-SkyHigh.Github.io/">Click here for Sky-High</a>
-  </heading>
-  <heading>
+  <br>
   <a href="https://sosdeveloper3.github.io/SOSDeveloper3-Alien-invasion.Github.io/">Click here for Alien-Invasion</a>
-  </heading>
+  </body>
   </html>
   
  
