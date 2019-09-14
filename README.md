@@ -1,8 +1,7 @@
-# gamecentral
 <!DOCTYPE html>
 <html>
   <heading>
-    <h6>Welcome To Game Central!</h6>
+    <h1>Welcome To Game Central!</h1>
   </heading>
     
   <text>hi</text>
