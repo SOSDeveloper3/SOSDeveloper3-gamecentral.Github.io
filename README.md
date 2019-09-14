@@ -1,2 +1,4 @@
 # gamecentral
-<!Doctypehtml>
+<!DOCTYPE html>
+<html>
+  <text>hi</text>
